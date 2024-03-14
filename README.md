@@ -1,2 +1,2 @@
-# Tweeted-Trips
-Google Maps API Project with React
+# Journey-Trips
+Google Maps API Project with NextJS / NestJS
